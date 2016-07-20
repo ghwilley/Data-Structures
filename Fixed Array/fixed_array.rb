@@ -31,3 +31,10 @@ end
 arr = FixedArray.new(5)
 arr.set(9, "Poop")
 arr.get(2)
+
+
+
+# def fixed_array(size, other)  
+#    Array.new(size) { |i| other[i] }
+# end
+
